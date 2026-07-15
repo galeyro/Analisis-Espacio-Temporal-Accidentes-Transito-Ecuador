@@ -46,3 +46,12 @@ La aplicación cuenta con una barra de navegación lateral organizada en los sig
 
 ---
 **Desarrollado para:** Proyecto Final de IA 2
+
+### 👥 Integrantes del Equipo
+- Mateo Arguello
+- Joaquin Chacon
+- Andres Jimenez
+- Mathew Baquero
+- Galo Guevara
+- Joel Ibarra
+
